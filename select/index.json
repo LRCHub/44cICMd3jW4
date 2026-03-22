@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Soranji",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-07T04:00:17.830395Z",
+  "createdAt": "2026-03-22T03:07:24.040146Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -69,12 +69,37 @@
       "path": "select/08_Soranji_Mrs._GREEN_APPLE.lrc"
     },
     {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE, 206M plays",
+      "has_synced": true,
+      "path": "select/09_Soranji_Mrs._GREEN_APPLE,_206M_plays.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soranji",
+      "artist": "Song, Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_Soranji_Song,_Mrs._GREEN_APPLE.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Soranji",
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_Soranji_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_01_Soranji_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "44cICMd3jW4"
     }
   ]
 }
